@@ -15,5 +15,5 @@ pprint(_num)
 _str = introspection_info('строка')
 pprint(_str)
 
-_list = introspection_info([5, 3.4, 'строка',40])
+_list = introspection_info([5, 3.4, 'строка', 40])
 pprint(_list)
